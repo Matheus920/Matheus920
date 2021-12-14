@@ -10,6 +10,7 @@ Hello, devs! I'm Matheus Moreira and I'm a backend developer. Currently I'm atte
 
 <h1>&#128202; Git Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus920&layout=compact&theme=dark&icon_color=d39600)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus920&layout=compact&theme=dark&icon_color=d39600)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&count_private=true&theme=dark&icon_color=d39600)]
 
 
