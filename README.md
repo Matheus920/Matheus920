@@ -12,5 +12,5 @@ Hello, devs! I'm Matheus Moreira and I'm a backend developer. Currently I'm atte
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus920&layout=compact&theme=dark&icon_color=d39600)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus920&show_icons=true&count_private=true&theme=dark&icon_color=d39600)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus920&repo=https://github.com/Matheus920/CorreiosScrapper&theme=dark&icon_color=d39600)](https://github.com/Matheus920/CorreiosScrapper)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus920&repo=https://github.com/Matheus920/shopee-business-case&theme=dark&icon_color=d39600)](https://github.com/Matheus920/shopee-business-case)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus920&repo=CorreiosScrapper&theme=dark&icon_color=d39600)](https://github.com/Matheus920/CorreiosScrapper)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus920&repo=shopee-business-case&theme=dark&icon_color=d39600)](https://github.com/Matheus920/shopee-business-case)
