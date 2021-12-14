@@ -14,3 +14,7 @@ Hello, devs! I'm Matheus Moreira and I'm a backend developer. Currently I'm atte
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus920&show_icons=true&count_private=true&theme=dark&icon_color=d39600)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus920&repo=CorreiosScrapper&theme=dark&icon_color=d39600)](https://github.com/Matheus920/CorreiosScrapper)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Matheus920&repo=shopee-business-case&theme=dark&icon_color=d39600)](https://github.com/Matheus920/shopee-business-case)
+
+<h1>&#128199; Contact Me</h1>
+
+You cand get in touch with me by or <a href="mailto:matheusm920@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
