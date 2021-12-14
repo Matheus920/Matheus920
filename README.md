@@ -17,4 +17,4 @@ Hello, devs! I'm Matheus Moreira and I'm a backend developer. Currently I'm atte
 
 <h1>&#128199; Contact Me</h1>
 
-You can get in touch with me by <a href="https://www.linkedin.com/in/matheus-moreira-da-silva-9ab50615a/"><img height="16" width="16" style="filter: invert(100%) sepia(0%) saturate(2%) hue-rotate(123deg) brightness(102%) contrast(105%);" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a> or <a href="mailto:matheusm920@gmail.com"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
+You can get in touch with me by <a href="https://www.linkedin.com/in/matheus-moreira-da-silva-9ab50615a/"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" /></a> or <a href="mailto:matheusm920@gmail.com"><img height="16" width="16" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
