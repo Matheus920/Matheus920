@@ -17,4 +17,4 @@ Hello, devs! I'm Matheus Moreira and I'm a backend developer. Currently I'm atte
 
 <h1>&#128199; Contact Me</h1>
 
-You cand get in touch with me by or <a href="mailto:matheusm920@gmail.com"><img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
+You cand get in touch with me by or <a href="mailto:matheusm920@gmail.com"><img height="16" width="16" style="padding:0" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg" /></a>
